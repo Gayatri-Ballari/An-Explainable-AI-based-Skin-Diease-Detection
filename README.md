@@ -31,3 +31,10 @@ I used a dataset created by Skin Cancer MNIST :HAM10000 picture Archive communic
 The dataset is labeled dataset with acne and some skin allergies  images rated with expert opinion on images.
 here is the link for dataset https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000
 
+
+
+
+
+link to my IEEE paper
+https://doi.org/10.1007/978-981-19-5331-6_30
+
